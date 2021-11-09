@@ -1,3 +1,7 @@
+<!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/426232657/21.2.3%2B)
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 # Spreadsheet for WinForms – Spell Check Text in a Cell Editor
 
 This example demonstrates how to use the [DevExpress Spell Checker](https://docs.devexpress.com/WindowsForms/2635/controls-and-libraries/spell-checker) component to check spelling in spreadsheet cells. When a user types text in a cell, the spell checker indicates misspelled words with a red wavy line. The user can right-click an underlined word and select the correct spelling from the list of suggestions or invoke the [Spelling dialog](https://docs.devexpress.com/WindowsForms/8595/controls-and-libraries/spell-checker/visual-elements/spelling-dialog).
