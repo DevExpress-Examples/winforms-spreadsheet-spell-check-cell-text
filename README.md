@@ -39,7 +39,7 @@ Follow the steps below to integrate a spell checker into the Spreadsheet applica
 
 - [Spreadsheet for WPF – Spell Check Text in a Cell Editor](https://github.com/DevExpress-Examples/wpf-spreadsheet-spell-check-cell-text)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-spell-check-cell-text&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-spell-check-cell-text&~~~was_helpful=no)
 
